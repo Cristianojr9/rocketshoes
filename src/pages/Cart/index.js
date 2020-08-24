@@ -9,7 +9,7 @@ export default function Cart() {
         <thead>
           <tr>
             <th />
-            <th>PRODUTO</th>
+            <th>PRODUTO 1</th>
             <th>QTD</th>
             <th>SUBTOTAL</th>
           </tr>
